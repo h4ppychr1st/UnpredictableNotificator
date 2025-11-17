@@ -71,8 +71,8 @@ flowchart TB
     style n16 stroke-width:2px,stroke-dasharray: 0
     style n15 stroke-width:2px,stroke-dasharray: 0
     style n9 fill:#4682B4,color:white,stroke:#333,stroke-width:2px
-    style s2 fill:#FFE0B2
-    style s1 fill:#FFE0B2
+    style s2 fill:##FFC0CB,stroke:#333,stroke-width:2px
+    style s1 fill:##FFC0CB
 ```
 
 
